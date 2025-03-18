@@ -8,7 +8,9 @@ This project automates the loan approval process using AI-powered video-based as
 - 🏦 Loan eligibility assessment for **Personal, Home, Education, and Vehicle** loans  
 - 📜 Automated document verification (Aadhaar, PAN, Income Proof)  
 - 🤖 AI-powered decision-making for loan approval/disapproval  
-- 📝 User-friendly questionnaire form for data collection  
+- 📝 User-friendly questionnaire form for data collection
+
+
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Streamlit 
